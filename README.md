@@ -1,4 +1,4 @@
-# GuildWars2commerce
+# Guild Wars 2 Commerce 
 Retrieve the Guild wars 2 Commerce data from the public REST API using aiohttp
 
 ## Resources
